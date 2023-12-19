@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #DBF6E9;
+    font-family: 'Merriweather', serif;
+  }
+  
+  h1 {
+    font-family: sacramento, cursive;
+    margin: 0;
+    font-size: 70px;
+    color: #31326F;
+  }
+  
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  p{
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: #9DDFD3;
+  
+  }
+  
+  .TopContainer {
+    position: relative;
+    padding-top: 100px;
+  }
+  
+  .middleContainer {}
+  
+  .bottomContainer {}
+  
+  .BottomCloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+  }
+  
+  .TopCloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+  }
+  .profile
+  {
+    margin-top: 20px;
+  }
+  
+  .ICPintro
+  {
+    font-weight: bolder;
+    color: #FFC93C;
+  }
+  
